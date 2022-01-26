@@ -57,4 +57,4 @@ After which the user is asked  the choice of restarting the whole program or no
 
 ### Author
 
-- Cyril Bassey - Sole author for this program. Mentioned all the help received in 'Credits' section.
+- Cyril Bassey - Sole author for this program. Mentioned all the help received in 'Credits' section. 
