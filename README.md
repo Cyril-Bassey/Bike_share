@@ -1,10 +1,8 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 1-26-2022
 
 ### Project Title
-My Personal Basic Data Exploration with pandas on Bikeshare Data
+**My Personal Basic Data Exploration with pandas on Bikeshare Data**
 
 ### Description
 This is a Python project that uses pandas to explore bikeshare data.
@@ -21,9 +19,10 @@ This program can be run by input 'python bikeshare.py' on your terminal. I used 
 
 ### Details of the program
 
-The code in the program processes a user input for either of the three cities, month for which the user wants to view data (e.g. January; also includes an 'all' option), and day.
+**The code in the program processes a user input for either of the three cities, month for which the user wants to view data (e.g. January; also includes an 'all' option), and day.**
 
-It goes on to ask the user about their choice to view the raw data of 5 rows or not. Following the input received, the program prints the following details:
+**It goes on to ask the user about their choice to view the raw data of 5 rows or not. **
+*Following the input received, the program prints the following details:**
 
 - The youngest user (if available)
 - Most popular month
